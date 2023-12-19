@@ -1,5 +1,4 @@
 
-<img src='./image/logo.png'   style="width: 100px" > 
 # TuneNN
 A transformer-based network model, pitch tracking for musical instruments. 
 
